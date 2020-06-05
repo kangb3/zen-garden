@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+
+
+#colorRed{
+    color: red
+    }
+
+#colorBlue{
+    color: blue
+    }
+
+
+#colorGreen{
+    color: green
+    }
+
+p.orange{
+    color: orange;
+}
+
+p.large{
+    font-size:30px;
+}
+
+p.small{
+    font-size:small;
+}
+
+p.center{
+    text-align: center;
+}
+
+p.bold{
+    font-weight: bold;
+}
+
+p.fancyfont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p.styledFont{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:green
+}
+
+#styledImage{
+    border-style: groove;
+    border-width: 30px;
+    border-color: orange;
+}
